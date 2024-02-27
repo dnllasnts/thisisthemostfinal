@@ -1,0 +1,59 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f9f1f1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content {
+    background-color: #ffcccb;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #dc3545;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'Press Start 2P', cursive;
+    color: #dc3545;
+}
+
+video {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.social-media {
+    margin-top: 20px;
+}
+
+.social-btn {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.facebook {
+    background-color: #3b5998;
+    color: white;
+}
+
+.instagram {
+    background: linear-gradient(to right, #405de6, #5851db, #833ab4);
+    color: white;
+}
